@@ -1,6 +1,6 @@
 # Hi, I'm Widhyatma-sensei 👋
 
-Welcome to my GitHub profile! I'm a junior researcher with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
+Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
 
 ## 🔧 Technologies & Tools
 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a junior researcher with a strong focus on emb
 
 ## 📫 Get in Touch
 
+- **ResearchGate**: [Evan Alif Widhyatma] (https://www.researchgate.net/profile/Evan-Alif-Widhyatma?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 - **LinkedIn**: [Evan Alif Widhyatma](https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)
 - **Instagram**: [seismologist113](https://www.instagram.com/seismologist113/)
 - **Email**: evanalifwidhyatma@gmail.com
