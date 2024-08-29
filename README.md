@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Widhyatma-sensei 👋
 
-<!--
-**evanalif113/evanalif113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a researcher with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: C++, Python, R
+- **Embedded Systems**: Arduino, ESP32
+- **IoT Platforms**: ThingSpeak, Firebase, Blynk
+- **Software**: VSCode, PlatformIO, 
+
+## 🌱 Currently Learning
+
+- AI for Climate and Weather
+- Machine Learning for Environmental Data
+- Microelectronics
+
+## 📫 Get in Touch
+
+- **LinkedIn**: [Evan Alif Widhyatma](https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)
+- **Instagram**: [seismologist113](https://www.instagram.com/seismologist113/)
+- **Email**: evanalifwidhyatma@gmail.com
+
+
+---
+
+> "Bila kaum muda yang telah belajar di sekolah dan menganggap dirinya terlalu tinggi dan pintar untuk melebur dengan masyarakat yang bekerja dengan cangkul dan hanya memiliki cita-cita yang sederhana, maka lebih baik pendidikan itu tidak diberikan sama sekali."
+> - Tan Malaka
+
