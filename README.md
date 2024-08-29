@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 
 ## 📫 Get in Touch
 
-- **ResearchGate**: [Research Database] (https://www.researchgate.net/profile/Evan-Alif-Widhyatma)
+- **ResearchGate**: [Evan Alif](https://www.researchgate.net/profile/Evan-Alif-Widhyatma)
 - **LinkedIn**: [Evan Alif Widhyatma](https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)
 - **Instagram**: [seismologist113](https://www.instagram.com/seismologist113/)
 - **Email**: evanalifwidhyatma@gmail.com
