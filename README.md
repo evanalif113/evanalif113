@@ -1,6 +1,6 @@
 # Hi, I'm Widhyatma-sensei 👋
 
-Welcome to my GitHub profile! I'm a researcher with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
+Welcome to my GitHub profile! I'm a junior researcher with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
 
 ## 🔧 Technologies & Tools
 
