@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 ## 🔧 Technologies & Tools
 
 - **Languages**: C++, Python, R
-- **Embedded Systems**: Arduino, ESP32
+- **Embedded Systems**: Arduino, Espressif
 - **IoT Platforms**: ThingSpeak, Firebase, Blynk
 - **Software**: VSCode, PlatformIO, Jupyter, Arduino IDE
 
