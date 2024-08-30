@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 - **LinkedIn**: [Evan Alif Widhyatma](https://www.linkedin.com/in/evan-alif-widhyatma-371966180/)
 - **Instagram**: [seismologist113](https://www.instagram.com/seismologist113/)
 - **Email**: evanalifwidhyatma@gmail.com
+- [![Gmail Badge](https://img.shields.io/badge/-evanalifwidhyatma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evanalifwidhyatma@gmail.com)](mailto:evanalifwidhyatma@gmail.com) 
 
 
 ---
