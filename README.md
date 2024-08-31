@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
 
-## 🔧 Technologies & Tools
-
-- **Languages**: C++, Python, R
-- **Embedded Systems**: Arduino, Espressif
-- **IoT Platforms**: ThingSpeak, Firebase, Blynk
-- **Software**: VSCode, PlatformIO, Jupyter, Arduino IDE
-
 ## 🌱 Currently Learning
 
 - AI for Climate and Weather
@@ -17,6 +10,21 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 - Data Visualization
 - Time Series Forecasting
 - Fuzzy Logic
+
+## 🔧 Technologies & Tools
+
+[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![Espressif Badge](https://img.shields.io/badge/-Espressif-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![ThingSpeak Badge](https://img.shields.io/badge/-ThingSpeak-232F3E?style=flat&logo=mathworks&logoColor=white)](https://thingspeak.com/)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Blynk Badge](https://img.shields.io/badge/-Blynk-0189E2?style=flat&logo=Blynk&logoColor=white)](https://blynk.io/)
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![PlatformIO Badge](https://img.shields.io/badge/-PlatformIO-FF7F32?style=flat&logo=PlatformIO&logoColor=white)](https://platformio.org/)
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Arduino IDE Badge](https://img.shields.io/badge/-Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/en/Main/Software)
 
 ## 📫 Get in Touch
 
