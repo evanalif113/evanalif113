@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 - Machine Learning for Environmental Data
 - Microelectronics
 - Data Visualization
+- Time Series Forecasting
 - Fuzzy Logic
 
 ## 📫 Get in Touch
