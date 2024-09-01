@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a 
 - Microelectronics
 - Data Visualization
 - Time Series Forecasting
-- Fuzzy Logic
+- Seismic Data Processing
 
 ## 🔧 Technologies & Tools
 
