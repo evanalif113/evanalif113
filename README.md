@@ -1,6 +1,6 @@
 # Hi, I'm Widhyatma-sensei 👋
 
-Welcome to my GitHub profile! I'm a junior researcher in geoscience data with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
+Welcome to my GitHub profile! I'm a junior researcher in geoscience with a strong focus on embedded systems, IoT, and environmental monitoring projects. I enjoy creating innovative solutions that merge technology with real-world applications.
 
 ## 🌱 Currently Learning
 
