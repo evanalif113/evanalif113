@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience with a stron
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
+[![Matlab Badge](https://img.shields.io/badge/Matlab-276DC3?style=flat&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Espressif Badge](https://img.shields.io/badge/-Espressif-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![ThingSpeak Badge](https://img.shields.io/badge/-ThingSpeak-232F3E?style=flat&logo=mathworks&logoColor=white)](https://thingspeak.com/)
