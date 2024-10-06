@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a junior researcher in geoscience with a stron
 
 - AI for Climate and Weather
 - Machine Learning for Environmental Data
+- Data Ethics
 - Microelectronics
 - Data Visualization
 - Time Series Forecasting
