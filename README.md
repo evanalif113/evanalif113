@@ -4,13 +4,13 @@ I am a junior researcher specializing in Earth Science data, with a strong empha
 
 ## 🌱 Currently Learning
 
-- AI for Climate and Weather
-- Machine Learning for Environmental Data
+- AI for Environmental Data
+- Computer Vision
 - Data Ethics
+- Precision Agriculture
 - Microelectronics
 - Data Visualization
 - Time Series Forecasting
-- Seismic Data Processing
 
 ## 🔧 Technologies & Tools
 
@@ -19,9 +19,11 @@ I am a junior researcher specializing in Earth Science data, with a strong empha
 [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Matlab Badge](https://img.shields.io/badge/Matlab-276DC3?style=flat&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Espressif Badge](https://img.shields.io/badge/-Espressif-E7352C?style=flat&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![ThingSpeak Badge](https://img.shields.io/badge/-ThingSpeak-232F3E?style=flat&logo=mathworks&logoColor=white)](https://thingspeak.com/)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Blynk Badge](https://img.shields.io/badge/-Blynk-0189E2?style=flat&logo=Blynk&logoColor=white)](https://blynk.io/)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![PlatformIO Badge](https://img.shields.io/badge/-PlatformIO-FF7F32?style=flat&logo=PlatformIO&logoColor=white)](https://platformio.org/)
