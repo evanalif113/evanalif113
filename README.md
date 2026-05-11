@@ -1,6 +1,6 @@
 # Hi, I'm Widhyatma-sensei 👋
 
-I am a junior researcher specializing in Earth Science data, with a strong emphasis on embedded systems, IoT, and environmental monitoring projects. My passion lies in developing innovative solutions that bridge technology and real-world applications. With a background in Data Science from my undergraduate studies, I am deeply committed to advancing research and science through technology-driven approaches.
+I am a junior researcher specializing in Earth Science data, with a strong emphasis on embedded systems, IoT, and atmospheric monitoring projects. My passion lies in developing innovative solutions that bridge technology and real-world applications. With a background in Data Science from my undergraduate studies, I am deeply committed to advancing research and science through technology-driven approaches.
 
 ## 🌱 Currently Learning
 
